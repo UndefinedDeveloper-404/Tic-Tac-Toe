@@ -355,32 +355,37 @@ This provides replay functionality without requiring the user to restart the pro
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-## 1. Game Start and Player X Move
+### 1. Game Start and Player X Move
 
 This screenshot shows the successful launch of the Tic Tac Toe game, the initial 3×3 board, and Player X making the first move.
 
-![Game Start and Player X Move](screenshots/game-start.png)
+![Game Start and Player X Move](Tic-Tac-Toe/screenshorts/game-start.png)
 
 ---
 
-## 2. Dynamic Board Update
+### 2. Dynamic Board Update
 
 This screenshot demonstrates the dynamic updating of the board after Player X and Player O make their moves.
 
-![Dynamic Board Update](screenshots/game-play.png)
+![Dynamic Board Update](Tic-Tac-Toe/screenshorts/game-play-x.png)
 
 ---
 
-## 3. Player X Wins and Replay Option
+### 3. Dynamic Board Update
+
+This screenshot demonstrates the dynamic updating of the board after Player X and Player O make their moves.
+
+![Dynamic Board Update](Tic-Tac-Toe/screenshorts/game-play-y.png)
+
+---
+
+### 4. Player X Wins and Replay Option
 
 This screenshot demonstrates the win detection feature. Player X completes a winning combination, and the program displays the winner and provides the replay option.
 
-![Player X Wins and Replay](screenshots/player-win.png)
-
----
-
+![Player X Wins and Replay](Tic-Tac-Toe/screenshorts/player-win.png)
 # 🧪 Testing
 
 The game was tested using different scenarios to verify that the required functionality works correctly.
